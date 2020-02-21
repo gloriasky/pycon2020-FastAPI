@@ -1,0 +1,9 @@
+fastApi
+uvicorn
+sqlalchemy
+async-exit-stack,
+async-generator
+passLib[bcrypt]
+python-jose[cryptography]
+python-multipart
+python-dotenv
