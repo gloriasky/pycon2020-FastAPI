@@ -1,3 +1,4 @@
+pydantic
 fastApi
 uvicorn
 sqlalchemy
